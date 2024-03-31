@@ -87,10 +87,6 @@ To get a local copy up and running, follow these simple steps:
 8. **View Results:**
    The application will display a message indicating the drinkability of the water
 
-## Explanation Video
-
-https://youtu.be/pQSLLXEFiBE
-
 ## License
 
 Distributed under the GNU General Public License v3.0 License. See [LICENSE](https://github.com/admin-sauce/Water-Cleanliness-Prediction-ML-Web-App/blob/master/LICENSE) for more information.
